@@ -8,7 +8,7 @@
 <h1 align="stretch">Tech Stack</h1>
 <div>
  <div>
- <h2 style="text-align: center;">Server-Side &nbsp;&nbsp;&nbsp; Client-Side &nbsp;&nbsp;&nbsp; Database</h2>
+ <h2 style="text-align: center;">Server-Side &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Client-Side &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Database</h2>
 <div>
   <table>
     <tr>
