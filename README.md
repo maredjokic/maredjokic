@@ -16,7 +16,7 @@
         <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,&perline=3" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=js,react,vite,materialui,html,css,tailwindcss,vue,vuetify,&perline=3" alt="Frontend Tools" /> 
+        <img src="https://skillicons.dev/icons?i=js,react,vite,materialui,vue,vuetify,&perline=3" alt="Frontend Tools" /> 
       </td>
       <td align="right">
         <img src="https://skillicons.dev/icons?i=mysql,cassandra,mongo,postgresql,sqlite,&perline=3" alt="Databases" />
