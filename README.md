@@ -18,8 +18,6 @@
 <div>
  <img src="https://skillicons.dev/icons?i=linux,windows,docker,kubernetes,kafka,git,github,gitlab,postman,npm,gmail,windows,vim,visualstudio,vscode,jest,&perline=7" alt="PHP" /> 
 </div>
-<h2>Social media</h2>
-<div>
 
 <!---
 maredjokic/maredjokic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
