@@ -9,23 +9,21 @@
 <div>
  <div>
  <h2 style="text-align: center;">Server-Side &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Client-Side &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Database</h2>
- <div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- Levo -->
-  <div style="text-align: left;">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,&perline=3" alt="Tech Stack 1" />
-  </div>
-
-  <!-- Centar -->
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=js,react,vite,materialui,html,css,tailwindcss,vue,vuetify,&perline=3" alt="Tech Stack 2" />
-  </div>
-
-  <!-- Desno -->
-  <div style="text-align: right;">
-    <img src="https://skillicons.dev/icons?i=mysql,cassandra,mongo,postgresql,sqlite,&perline=3" alt="Tech Stack 3" />
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,&perline=3" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js,react,vite,materialui,html,css,tailwindcss,vue,vuetify,&perline=3" alt="Frontend Tools" /> 
+      </td>
+      <td align="right">
+        <img src="https://skillicons.dev/icons?i=mysql,cassandra,mongo,postgresql,sqlite,&perline=3" alt="Databases" />
+      </td>
+    </tr>
+  </table>
 </div>
- </div>
 
 <h2>Other technologies, platforms and tools</h2>
 <div>
