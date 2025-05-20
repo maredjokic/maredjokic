@@ -4,7 +4,8 @@
 - 📫 I’m looking to collaborate on different projects
 - 📫 [How to reach me on linkedin](https://www.linkedin.com/in/djokicmarko)
 - ✨ Portfolio: https://markodjokic.dev/
-- 📍 I'm from Serbia 🇷🇸 
+- 📍 I'm from Serbia 🇷🇸
+- 🎓 MSc in Software Engineering
 
 <body style="font-family: Arial, sans-serif; background-color: hashtag#f0f0f0; margin: 0; padding: 20px;">
 <h1 align="stretch">Tech Stack</h1>
