@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marko Đokić @maredjokic
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React, Node and .Net
 - 📫 I’m looking to collaborate on different projects
 - 📫 [How to reach me on linkedin](https://www.linkedin.com/in/djokicmarko)
 - ✨ Portfolio: https://markodjokic.dev/
