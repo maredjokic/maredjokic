@@ -37,7 +37,7 @@
 
 <h2>Other technologies, platforms and tools</h2>
 <div>
- <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,vite,kafka,git,github,gitlab,postman,npm,gmail,windows,vim,visualstudio,vscode,jest,&perline=15" alt="PHP" /> 
+ <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,vite,kafka,git,github,gitlab,postman,npm,gmail,windows,vim,visualstudio,vscode,jest,&perline=13" alt="PHP" /> 
 </div>
 
 <!---
