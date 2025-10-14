@@ -17,7 +17,7 @@
         <img src="https://skillicons.dev/icons?i=js,react,next,vite,materialui,vue,vuetify,&perline=3"/> 
       </td>
       <td align="left">
-        <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,&perline=3" />
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,&perline=1" />
       </td>
       <td align="right">
         <img src="https://skillicons.dev/icons?i=mysql,cassandra,mongo,postgresql,sqlite,&perline=3"/>
