@@ -17,7 +17,7 @@
         <img src="https://skillicons.dev/icons?i=js,ts,react,next,vite,materialui,vue,vuetify,&perline=3"/> 
       </td>
       <td align="left">
-        <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,&perline=3" />
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,&perline=3" />
       </td>
       <td align="right">
         <img src="https://skillicons.dev/icons?i=mysql,cassandra,mongo,postgresql,sqlite,sequelize,&perline=3"/>
@@ -25,10 +25,19 @@
     </tr>
   </table>
 </div>
+<h2>Devops</h2>
+<div>
+ <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,githubactions,&perline=10" alt="PHP" /> 
+</div>
+  
+<h2>Design</h2>
+<div>
+ <img src="https://skillicons.dev/icons?i=tailwind,figma,&perline=10" alt="PHP" /> 
+</div>
 
 <h2>Other technologies, platforms and tools</h2>
 <div>
- <img src="https://skillicons.dev/icons?i=linux,windows,docker,kubernetes,kafka,git,github,gitlab,postman,npm,gmail,windows,vim,visualstudio,vscode,jest,azure,tailwind,&perline=7" alt="PHP" /> 
+ <img src="https://skillicons.dev/icons?i=linux,windows,kafka,git,github,gitlab,postman,npm,gmail,windows,vim,visualstudio,vscode,jest,&perline=10" alt="PHP" /> 
 </div>
 
 <!---
