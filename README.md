@@ -20,7 +20,7 @@
         <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,&perline=3" />
       </td>
       <td align="right">
-        <img src="https://skillicons.dev/icons?i=mysql,cassandra,mongo,postgresql,sqlite,&perline=3"/>
+        <img src="https://skillicons.dev/icons?i=mysql,cassandra,mongo,postgresql,sqlite,sequelize,&perline=3"/>
       </td>
     </tr>
   </table>
