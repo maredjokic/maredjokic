@@ -14,7 +14,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=js,react,next,vite,materialui,vue,vuetify,&perline=3"/> 
+        <img src="https://skillicons.dev/icons?i=js,ts,react,next,vite,materialui,vue,vuetify,&perline=3"/> 
       </td>
       <td align="left">
         <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,&perline=3" />
@@ -28,7 +28,7 @@
 
 <h2>Other technologies, platforms and tools</h2>
 <div>
- <img src="https://skillicons.dev/icons?i=linux,windows,docker,kubernetes,kafka,git,github,gitlab,postman,npm,gmail,windows,vim,visualstudio,vscode,jest,azure,&perline=7" alt="PHP" /> 
+ <img src="https://skillicons.dev/icons?i=linux,windows,docker,kubernetes,kafka,git,github,gitlab,postman,npm,gmail,windows,vim,visualstudio,vscode,jest,azure,tailwind,&perline=7" alt="PHP" /> 
 </div>
 
 <!---
