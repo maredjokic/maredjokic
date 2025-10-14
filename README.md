@@ -32,7 +32,7 @@
   
 <h2>Design</h2>
 <div>
- <img src="https://skillicons.dev/icons?i=tailwind,materialui,vuetify,figma,&perline=10" alt="PHP" /> 
+ <img src="https://skillicons.dev/icons?i=tailwind,materialui,vuetify,bootstrap,figma,&perline=10" alt="PHP" /> 
 </div>
 
 <h2>Other technologies, platforms and tools</h2>
