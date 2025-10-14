@@ -14,7 +14,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=js,ts,react,next,vite,materialui,vue,vuetify,&perline=3"/> 
+        <img src="https://skillicons.dev/icons?i=js,ts,react,next,vite,vue,&perline=3"/> 
       </td>
       <td align="left">
         <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,&perline=3" />
@@ -32,7 +32,7 @@
   
 <h2>Design</h2>
 <div>
- <img src="https://skillicons.dev/icons?i=tailwind,figma,&perline=10" alt="PHP" /> 
+ <img src="https://skillicons.dev/icons?i=tailwind,materialui,vuetify,figma,&perline=10" alt="PHP" /> 
 </div>
 
 <h2>Other technologies, platforms and tools</h2>
