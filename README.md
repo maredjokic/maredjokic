@@ -27,7 +27,7 @@
 </div>
 <h2>Devops</h2>
 <div>
- <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,githubactions,&perline=10" alt="PHP" /> 
+ <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,githubactions,&perline=10" /> 
 </div>
   
 <h2>Design</h2>
