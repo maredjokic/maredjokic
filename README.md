@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Marko Đokić @maredjokic
-- 🌱 I’m currently learning Node.
 - 📫 I’m looking to collaborate on different projects
 - 📫 [How to reach me on linkedin](https://www.linkedin.com/in/djokicmarko)
 - ✨ Portfolio: https://markodjokic.dev/
