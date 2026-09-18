@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Marko Đokić @maredjokic
 - 📫 I’m looking to collaborate on different projects
-- 📫 [How to reach me on linkedin](https://www.linkedin.com/in/djokicmarko)
 - 📚 I am currently learning React Native, Python and Rust
 - ✨ Portfolio: https://markodjokic.dev/
 - 🎓 MSc in Software Engineering
